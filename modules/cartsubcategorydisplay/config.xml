@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>cartsubcategorydisplay</name>
+	<displayName><![CDATA[Cart Subcategory Display]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Displays the lowest level subcategory name of each product added to the cart in the confirmation page]]></description>
+	<author><![CDATA[Fekher Turki]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
